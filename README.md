@@ -1,50 +1,37 @@
 # 👋 Hi there, I'm Ch. Venkata Ganesh
 
-🚀 A passionate **Front-End Learner & JavaScript Enthusiast**
-💡 Learning by building real projects and improving every day.
+🚀 **Aspiring Front-End Developer | JavaScript Learner**
+💡 I love building projects and learning by doing.
 
 ---
 
-## 🌱 Currently Learning
+## 🔭 About Me
 
-* JavaScript (ES6+, import/export, functions, arrays)
-* Front-End Development Fundamentals
-* Clean coding practices
+* 🎓 MSc Computers Graduate (2022)
+* 🌱 Currently learning **JavaScript & Front-End Development**
+* 📦 Building projects to improve real-world skills
+* 🚀 Growing my GitHub consistently
 
----
-
-## 🔭 What I'm Working On
-
-* 📦 Mini projects to strengthen concepts
-* 📊 Real-world problem solving
-* 🚀 Consistent GitHub contributions
-
-👉 Explore my work:
-🔗 [Repositories](https://github.com/ganeshchinni02?tab=repositories)
+👉 🔗 [View My Repositories](https://github.com/ganeshchinni02?tab=repositories)
 
 ---
 
-## 📈 Learning Growth (Trend Graph)
+## 📊 GitHub Stats & Graphs
 
+<img src="https://github-readme-stats.vercel.app/api?username=ganeshchinni02&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshchinni02&layout=compact&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=ganeshchinni02&theme=tokyonight" />
 ---
 
-## 💬 Ask Me About
-
-* JavaScript Basics
-* Front-End Development
-* Beginner Projects
-
----
-
-## 🐍 Contribution Snake (Animation)
+## 🐍 Contribution Snake Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganeshchinni02/ganeshchinni02/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganeshchinni02/ganeshchinni02/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ganeshchinni02/ganeshchinni02/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ganeshchinni02/ganeshchinni02/output/github-contribution-grid-snake.svg">
 </picture>
-
-✨ *Tracks my daily coding activity automatically.*
 
 ---
 
@@ -59,22 +46,23 @@
 
 ## 🌐 Portfolio
 
-🚧 *Coming Soon!*
-Working on a personal portfolio to showcase my projects, skills, and journey.
+🚧 **Coming Soon!**
+I’m currently building my personal portfolio website to showcase my projects.
 
 ---
 
 ## 🔗 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ganeshchinni02)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/ganeshchinni02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Goals
 
-💡 *I turn simple ideas into projects and learn something new every day.*
+🎯 Become a **Front-End Developer / Data Analyst**
+📈 Build impactful real-world projects
 
 ---
 
-⭐ **"Consistency beats perfection — keep building!"**
+⭐ *"Consistency beats talent when talent doesn't stay consistent."*
