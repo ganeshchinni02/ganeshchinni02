@@ -17,10 +17,9 @@
 ---
 
 ## 📊 GitHub Stats
+## 📈 Repository Activity Graph
 
-<img src="https://github-readme-stats.vercel.app/api?username=ganeshchinni02&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshchinni02&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshchinni02&theme=tokyo-night&area=true" />
 
 ## 🐍 Contribution Snake Animation
 
