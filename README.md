@@ -16,14 +16,11 @@
 
 ---
 
-## 📊 GitHub Stats & Graphs
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ganeshchinni02&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ganeshchinni02&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshchinni02&layout=compact&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com?user=ganeshchinni02&theme=tokyonight" />
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshchinni02&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 ## 🐍 Contribution Snake Animation
 
